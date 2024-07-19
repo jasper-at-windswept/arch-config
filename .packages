@@ -1,0 +1,18 @@
+git
+openssh
+unzip
+base-devel
+ttf-iosevka-nerd
+ttf-jetbrains-mono
+nodejs
+pnpm
+npm
+neovim
+xmonad
+xmonad-contrib
+xorg-xinit
+xorg-server
+alacritty
+
+# yay
+oh-my-posh
