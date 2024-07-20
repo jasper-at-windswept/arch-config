@@ -1,3 +1,7 @@
+# yay
+oh-my-posh
+
+# pacman
 git
 openssh
 unzip
@@ -13,6 +17,22 @@ xmonad-contrib
 xorg-xinit
 xorg-server
 alacritty
-
-# yay
-oh-my-posh
+zoxide
+eza
+xclip
+trash-cli
+# Compfy
+libconfig
+libdbus
+libev
+libglvnd
+libx11
+libxcb
+libxdg-basedir
+pcre2
+pixman
+uthash
+xcb-util-image
+xcb-util-renderutil
+# End Compfy
+fzf

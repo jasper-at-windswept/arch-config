@@ -11,3 +11,9 @@ source $HOME/.myzsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $HOME/.myzsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 eval "$(oh-my-posh init zsh --config $HOME/.config/oh-my-posh/config.json)"
+
+eval "$(zoxide init zsh)"
+
+alias -- 'cd'='z'
+alias -- 'ls'='eza'
+alias -- 'rm'='trash-put'
