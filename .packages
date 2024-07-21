@@ -8,12 +8,13 @@ unzip
 base-devel
 ttf-iosevka-nerd
 ttf-jetbrains-mono
+#
 nodejs
 pnpm
 npm
+#
 neovim
-xmonad
-xmonad-contrib
+herbstluftwm
 xorg-xinit
 xorg-server
 alacritty
@@ -21,18 +22,7 @@ zoxide
 eza
 xclip
 trash-cli
-# Compfy
-libconfig
-libdbus
-libev
-libglvnd
-libx11
-libxcb
-libxdg-basedir
-pcre2
-pixman
-uthash
-xcb-util-image
-xcb-util-renderutil
-# End Compfy
 fzf
+less
+nitrogen
+xdg-desktop-portal-gtk
