@@ -8,6 +8,7 @@ unzip
 base-devel
 ttf-iosevka-nerd
 ttf-jetbrains-mono
+inter-font
 #
 nodejs
 pnpm
