@@ -1,19 +1,13 @@
-/*******************************************************************************
- * MACOS SPOTLIGHT LIKE DARK THEME FOR ROFI 
- * User                 : LR-Tech               
- * Theme Repo           : https://github.com/lr-tech/rofi-themes-collection
- *******************************************************************************/
-
 * {
     font:   "Inter 14";
 
-    bg0:    #242424E6;
-    bg1:    #7E7E7E80;
-    bg2:    #0860f2E6;
+    bg0:    #161d1f;
+    bg1:    #7E7E7E;
+    bg2:    #67b0e8;
 
     fg0:    #DEDEDE;
     fg1:    #FFFFFF;
-    fg2:    #DEDEDE80;
+    fg2:    #DEDEDE;
 
     background-color:   transparent;
     text-color:         @fg0;
@@ -28,12 +22,11 @@ window {
 
     location:       center;
     width:          640;
-    border-radius:  8;
 }
 
 inputbar {
-    font:       "Inter 20";
-    padding:    12px;
+    font:       "Inter 18";
+    padding:    18px;
     spacing:    12px;
     children:   [ icon-search, entry ];
 }
@@ -75,7 +68,7 @@ listview {
 }
 
 element {
-    padding:            8px 16px;
+    padding:            10px 16px;
     spacing:            16px;
     background-color:   transparent;
 }
